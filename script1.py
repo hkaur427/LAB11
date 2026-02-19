@@ -1,3 +1,4 @@
 # Print different lines from the Zen of Python
 print("Simple is better than complex.")
 print("Complex is better than complicated.")
+print("Readability counts.")
