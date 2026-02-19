@@ -1,3 +1,3 @@
-# Print different lines from the Zen of Python
-print("Simple is better than complex.")
-print("Complex is better than complicated.")
+# Updated on second computer
+print("Beautiful is better than ugly.")
+print("Explicit is better than implicit.")

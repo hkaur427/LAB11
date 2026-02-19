@@ -1,3 +1,4 @@
-# Print lines from the Zen of Python
-print("Beautiful is better than ugly.")
-print("Explicit is better than implicit.")
+# Edited from the cloned repository
+print("Simple is better than complex.")
+print("Complex is better than complicated.")
+("Explicit is better than implicit.")
